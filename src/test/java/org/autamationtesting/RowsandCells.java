@@ -28,7 +28,7 @@ public class RowsandCells {
 			for (int j = 0; j < row2.getPhysicalNumberOfCells(); j++) {
 				Cell cell2 = row2.getCell(j);
 				System.out.println(cell2);
-				
+				System.out.println("All row");
 			}
 			
 		}		
